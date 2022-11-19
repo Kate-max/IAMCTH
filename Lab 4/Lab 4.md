@@ -23,7 +23,16 @@ library(dplyr)
 data(package = "nycflights13")
 #2. Сколько строк в каждом датафрейме?
 #3. Сколько столбцов в каждом датафрейме?
+print ("flights: ")
 dim(flights)
+print ("weather: ")
+dim(weather)
+print ("planes: ")
+dim(planes)
+print ("airports: ")
+dim(airports)
+print ("airlines: ")
+dim(airlines)
 ```
 
 ```{r}
