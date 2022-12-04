@@ -1,12 +1,10 @@
 ---
 output:
   md_document: default
-  html_document: default
 ---
 ---
 title: "Исследование метаданных DNS трафика"
 output: md_document
-output: html_document
 date: "2022-12-04"
 ---
 ```{r, setup, include=F}
