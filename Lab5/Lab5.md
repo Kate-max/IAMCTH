@@ -6,7 +6,9 @@
     tidyverse языка R
 3.  Закрепить навыки исследования метаданных DNS трафика
 
-RStudioCloud \### Подготовка данных
+RStudioCloud 
+
+### Подготовка данных
 
     install.packages("dplyr")
 
