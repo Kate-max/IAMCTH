@@ -1,8 +1,4 @@
 ---
-output:
-  md_document: default
----
----
 title: "Исследование метаданных DNS трафика"
 output: md_document
 date: "2022-12-04"
