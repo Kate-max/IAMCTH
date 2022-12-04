@@ -6,7 +6,7 @@
     tidyverse языка R
 3.  Закрепить навыки исследования метаданных DNS трафика
 
-RStudioCloud \
+RStudioCloud 
 
 ### Подготовка данных
 
